@@ -1,5 +1,0 @@
-<html>
-<body>
-hello this is a practise
-</body>
-</html>
